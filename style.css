@@ -31,7 +31,7 @@
 .progressBar .progress {
     height: 100%;
     background-color: red;
-    width: 2%;
+    width: 1%;
 }
 
 .button {
